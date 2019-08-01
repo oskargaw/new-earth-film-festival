@@ -1,0 +1,24 @@
+{
+  "expo": {
+    "name": "NEIFF",
+    "icon": "./assets/images/logoNeiffIcon.png",
+    "version": "1.0.1",
+    "sdkVersion": "27.0.0",
+    "ios": {
+      "bundleIdentifier": "com.oskargawlak.neiff"
+    },
+    "android": {
+      "package": "com.oskargawlak.neiff",
+      "versionCode": 3,    
+      "config": {
+        "googleMaps": {
+          "apiKey": "AIzaSyD6stuBUPdAVsbilO0PtKg9D7LwrxCL8Qk"
+        }
+      }
+    },
+    "splash": {
+      "image": "./assets/images/logoNeiff.png",
+      "resizeMode": "cover"
+    }
+  }
+}
